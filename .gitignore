@@ -1,0 +1,21 @@
+__pycache__/
+.venv/
+*.pyc
+# generated data
+kemar_hrir.npz
+golden/
+c/golden/
+stream/
+wav/
+# generated listening-test material (large)
+*.wav
+session/
+session_key_DO_NOT_OPEN.csv
+s_*/
+A_full/ B_lp9k/ C_flat/
+demo/
+report/
+# C build products
+*.o
+c/test_golden
+c/sonify_cli

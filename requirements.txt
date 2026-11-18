@@ -1,0 +1,4 @@
+numpy
+scipy
+matplotlib
+slab   # only needed by prepare_hrtf.py (KEMAR HRIR data)
